@@ -3,6 +3,7 @@ Just to keep tracks of contents related to team management and dynamics
 
 ## Posts
 
+- [Answer these 10 questions to understand if you’re a good manager](https://qz.com/work/1447711/how-to-tell-if-youre-a-good-manager/) - 03.02.2019
 - [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/) - 03.02.2019
 - [How We Onboard New Engineers - PSPDFKit](https://pspdfkit.com/blog/2018/onboarding-new-engineers/) - 03.02.2019
 - [How to Hire Your First Engineer](https://blog.ycombinator.com/how-to-hire-your-first-engineer/) - 03.02.2019
