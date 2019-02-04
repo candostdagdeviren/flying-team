@@ -3,6 +3,7 @@ Just to keep tracks of contents related to team management and dynamics
 
 ## Posts
 
+- [How We Interview Engineers at CircleCI](https://circleci.com/blog/how-we-interview-engineers-at-circleci/) - 04.02.2019
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - 03.02.2019
 - [Answer these 10 questions to understand if you’re a good manager](https://qz.com/work/1447711/how-to-tell-if-youre-a-good-manager/) - 03.02.2019
 - [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/) - 03.02.2019
