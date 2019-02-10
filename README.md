@@ -3,6 +3,7 @@ Just to keep tracks of contents related to team management and dynamics
 
 ## Posts
 
+- [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - 10.02.2019
 - [How We Interview Engineers at CircleCI](https://circleci.com/blog/how-we-interview-engineers-at-circleci/) - 04.02.2019
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - 03.02.2019
 - [Answer these 10 questions to understand if you’re a good manager](https://qz.com/work/1447711/how-to-tell-if-youre-a-good-manager/) - 03.02.2019
