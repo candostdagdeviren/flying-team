@@ -2,6 +2,8 @@
 Just to keep tracks of contents related to team management and dynamics
 
 ## Posts
+
+- [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - 15.11.2019
 - [How to offer challenges to your teammates](https://larahogan.me/blog/benefits-offering-challenges/) - 14.11.2019
 - [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/) - 17.02.2019
 - [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - 10.02.2019
